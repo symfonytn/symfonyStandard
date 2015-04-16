@@ -42,6 +42,7 @@ class DemoController extends Controller
 
         if ($form->isValid()) {
             $mailer = $this->get('mailer');
+            echo 'test';
 
             // .. setup a message and send it
             // http://symfony.com/doc/current/cookbook/email.html

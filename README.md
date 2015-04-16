@@ -7,3 +7,4 @@ A Symfony project created on April 16, 2015, 12:41 pm.
 
 [![Build Status](https://travis-ci.org/symfonytn/symfonyStandard.svg?branch=master)](https://travis-ci.org/symfonytn/symfonyStandard)
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/symfonytn/symfonyStandard/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/symfonytn/symfonyStandard/?branch=master)
